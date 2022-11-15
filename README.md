@@ -1,4 +1,4 @@
-# -------------------Рабочий урок https://www.youtube.com/watch?v=VyeZSerAoh4&t=1s ---------------------
+# -------------------Рабочий проект---------------------
 
 # Getting Started with Create React App
 
