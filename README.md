@@ -12,4 +12,4 @@
 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Поисковик [Google](https://www.google.ru/?hl=ru).
