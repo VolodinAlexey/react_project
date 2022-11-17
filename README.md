@@ -5,7 +5,7 @@
 ## Bootstrap, адаптивная верстка
 ## Axios
 ## React Icon
-## На старнице есть Header, Main, Footer
+## На странице есть Header, Main, Footer
 ## Форма авторизации
 ## Роутинг, SPA
 ## Хуки
